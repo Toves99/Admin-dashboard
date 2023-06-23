@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is admin dashboard using php, html5,Css nad javascript am still working on it
